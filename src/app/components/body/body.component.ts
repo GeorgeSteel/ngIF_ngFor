@@ -13,5 +13,5 @@ export class BodyComponent {
     autor: 'Socrates'
   };
 
-  personajes:string[] = ['Spider-Man', 'Venom', 'Green Goblin'];
+  personajes:string[] = ['Spider-Man', 'Venom', 'Green Goblin', 'Sandman', 'Hammerhead'];
 }
